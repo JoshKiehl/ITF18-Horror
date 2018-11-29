@@ -1,0 +1,30 @@
+#Map of the first floor
+print("___  _______________________   ")
+print("|             |             \  ")
+print("|             |              | ")
+print("|  One        |             /  ")
+print("|              \   Six     |   ")
+print("|               \          |   ")
+print("|__________|     |_________|   ")
+print("|          |    _|        /    ")
+print("|  Three   |   |-| Five  |     ")
+print("|__________|   |_|_______|     ")
+print("|   Two    |     | Four  |     ")
+print("\__________|_   _|_______/     ")
+
+#Map of the second floor
+
+print("      ________________      ")
+print("     /        |       \     ")
+print("    |         |  Ten   |    ")
+print("     \        |       /     ")
+print("______|       |       |      ")
+print("|             |       /      ")
+print("|   Nine      |      |       ")
+print("|_____________|______|       ")
+print("|             |      |       ")
+print("|   Eight    _| Seven|       ")
+print("|           |-|      |       ")
+print("|___________|_|______|       ")
+
+
